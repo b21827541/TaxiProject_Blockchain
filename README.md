@@ -1,7 +1,5 @@
 # TaxiProject_Blockchain
 
-Berk Karaimer 21827541
-
 Deploys with remix ide's set 3000000 gas limit.
 
 Made the repurchasecar function public payable since it could not be private and payable.
